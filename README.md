@@ -4,7 +4,7 @@ Yapay sinir ağları, insan beyninin özelliklerinden olan öğrenme yolu ile ye
 ### Karakter Tanıma
 Karakter tanıma görüntüler üzerindeki karakterlerin ya da metin bilgilerinin okunarak işlenmesi olduğundan bu işlem için çeşitli görüntülerin veya metinlerin bilgisayar tarafından işlenebilecek sayısal veriler haline dönüştürülmesi gerekmektedir. 
 
-<img src="images/img1.png"/>
+<p align="center"><img src="images/img1.png"/></p>
 Karakter tanıma işlemi 3 ana bölümden oluşur:
 
 1. Pre-processing (Ön İşleme)
